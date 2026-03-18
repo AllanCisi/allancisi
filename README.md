@@ -2,7 +2,7 @@
 
 **`💻 Desenvolvedor BackEnd`**
 
-Me chamo Allan Roberto Cisi, tenho 18 anos e sou de Osasco/SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC SP.
+Me chamo Allan Cisi, tenho 18 anos e sou de Osasco/SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC SP.
 
   <a href="https://github.com/?tab=followers">
         <img 
